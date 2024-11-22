@@ -115,5 +115,6 @@ Row: Gender
 
 Values: Count of ID
 
-
+![Снимок экрана 2024-11-22 195458](https://github.com/user-attachments/assets/a858503e-39e0-48cb-aa0b-7e4c78209448)
+Findings: In the dataset, we have more females, 58.6% (2,995), than males 41.4% (2,115).
 
