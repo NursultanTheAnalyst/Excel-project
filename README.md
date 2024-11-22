@@ -49,3 +49,14 @@ Rows: 5110
 Columns: 12 Columns
 
 ![Снимок экрана 2024-11-22 190128](https://github.com/user-attachments/assets/8e087496-0b8c-47b0-ae31-3703983c797f)
+
+ In gender column, ID=56156 gender is other. I will replace this value using statistics (mode).
+
+· Age is between 0.08 and 82 years. I will use a range to group the ages.
+
+· Heart Disease, change 0 to “None”, and 1 to “Heart Disease”.
+
+· Marital status, change no to “Single”, and yes to “Married”.
+
+· The BMI range from 10.3 to 97.6, with N/A. I will replace the N/A using statistics (median). Also the BMI will be grouped. Also check if the missing values (N/A) are more than 30% of the count of data in the column. If yes, delete the column and reject the data. Else continue by replacing the N/A with the mean/average.
+
