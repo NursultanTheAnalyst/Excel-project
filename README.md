@@ -60,3 +60,6 @@ Columns: 12 Columns
 
 · The BMI range from 10.3 to 97.6, with N/A. I will replace the N/A using statistics (median). Also the BMI will be grouped. Also check if the missing values (N/A) are more than 30% of the count of data in the column. If yes, delete the column and reject the data. Else continue by replacing the N/A with the mean/average.
 
+![Снимок экрана 2024-11-22 192804](https://github.com/user-attachments/assets/6e2d6d5b-1489-44dd-a095-55d8588b236b)
+
+![Снимок экрана 2024-11-22 192618](https://github.com/user-attachments/assets/7a4d1d75-f4b8-4dbf-9354-0c27ea9370b2)
