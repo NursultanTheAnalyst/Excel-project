@@ -116,7 +116,9 @@ Row: Gender
 Values: Count of ID
 
 ![Снимок экрана 2024-11-22 195458](https://github.com/user-attachments/assets/a858503e-39e0-48cb-aa0b-7e4c78209448)
+
 Findings: In the dataset, we have more females, 58.6% (2,995), than males 41.4% (2,115).
 
 ![Снимок экрана 2024-11-22 200352](https://github.com/user-attachments/assets/c1b98f59-f512-49b8-8167-00c8f0666e2e)
+
 FINDINGS: From our analysis, when the dataset is equally distributed between females and males, I discovered that males are more likely to have stroke (5.11%) compared to females (4.71%).
