@@ -100,7 +100,7 @@ x. In stroke column, change 1 to Stroke, and 0 to No Stroke.
 
 Now Create a Pivot Table. Click on a data point, go to insert, click pivot table, click ok.
 
-### FIRST:
+#### FIRST:
 Stroke %.
 Row: Stroke
 Values: Count of ID
