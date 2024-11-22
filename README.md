@@ -36,3 +36,7 @@ The dataset for the project has the following columns:
 12) stroke: 1 if the patient had a stroke or 0 if not
 
 *Note: "Unknown" in smoking_status means that the information is unavailable for this patient
+
+## Dictionary
+
+![1696237563579](https://github.com/user-attachments/assets/04df853d-a83e-45ab-b723-2a312f117a2c)
