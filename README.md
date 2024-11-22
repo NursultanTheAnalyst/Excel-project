@@ -68,19 +68,19 @@ Columns: 12 Columns
 
 · Stroke, 1 means “Has Stroke”, and 0 means “No Stroke”
 
-## Cleaning and Transformation using Power Query
+## Cleaning and Data Transformation 
 
-i. Load the data into power query. Click a data point, go to data tab, click from Table range. This will open the dataset in power query.
+i. Copy the whole data and paste them into the next new sheet so that we can keep the original data as it is and do data cleaning, transformations to the copied data. 
 
-ii. Check the number of rows. Go to transform, click count rows. The number of rows will be 5,111. To remove the error, click on the page filter, and select remove errors. This will return the number to 5,110.
+ii. Check the number of rows. Go to transform, count the rows suing =COUNTA(). The number of rows will be 5,111. But if we look carefully, there's a "Other" value in the Gender column and we will change it based on =Mode(). Then give it the value which made up most of them. 
 
 iii. Remove unwanted columns. Remove the following: Hypertension, Work_Type, Residence_Type, Average_Glucose_Level, Smoking_Status.
 
 iv. Change data type of the ID to text.
 
-v. Gender. Female 2,994, Male 2,115, therefore replace other with female. Right click the column, select replace values, type Other and type Female.
+v. Gender. Female 2,994, Male 2,115, therefore replace "Other" with female. By ctrl+H we will replace Other with Female.
 
-vi. Create the age range using: babies (0-2), children (3-12), teens (13-19), young adults (20-29), adult (30-45), mid age (46-60), elderly (61-120).
+vi. Create the age range using: babies (0-2), children (3-12), teens (13-19), young adults (20-29), adult (30-45), mid age (46-60), elderly (61-120). For this purpose we use IF()
 
 ![Снимок экрана 2024-11-22 193220](https://github.com/user-attachments/assets/7a796cc1-9da0-4b0b-a88f-49a252e44fa1)
 
@@ -90,4 +90,7 @@ viii. Ever-married, replace No with Single, and Yes with Married.
 
 ix. BMI, change the data type to decimal number. This will set the N/A to errors. Then use replace errors to change the errors to 28.9.
 
-Then set the BMI range using conditional column
+Then set the BMI range using =IF just like we did with Age
+
+![Снимок экрана 2024-11-22 194439](https://github.com/user-attachments/assets/8f4874fa-f477-42b5-8277-33c3c0512212)
+
