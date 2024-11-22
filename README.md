@@ -161,3 +161,21 @@ From the dataset, we have obesity 1,920, followed by overweight 1,610, healthy w
 FINDINGS:
 
 Over weight people are most likely to have stroke (7.14%), followed by Obesity (5.10%), Healthy Weight (2.84%), and people that are under weight will most likely not have stroke (0.29%).
+
+
+ #### SIXTH: Based on Heart Disease
+
+![Снимок экрана 2024-11-22 203307](https://github.com/user-attachments/assets/a1bfe79e-5c0d-4393-8f4e-3d064bd82ccc)
+
+
+From the dataset, we have more people with no heart disease (4,834), than people with heart disease (276).
+
+![Снимок экрана 2024-11-22 203525](https://github.com/user-attachments/assets/74c1417b-a34f-4bb0-9132-2445b5578c39)
+
+
+FINDINGS:
+
+People with heart disease are most at risk (17.03%) for developing stroke, compared to people with no heart disease (4.18%).
+
+
+
