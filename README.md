@@ -119,6 +119,23 @@ Values: Count of ID
 
 Findings: In the dataset, we have more females, 58.6% (2,995), than males 41.4% (2,115).
 
+
+
 ![Снимок экрана 2024-11-22 200352](https://github.com/user-attachments/assets/c1b98f59-f512-49b8-8167-00c8f0666e2e)
 
 FINDINGS: From our analysis, when the dataset is equally distributed between females and males, I discovered that males are more likely to have stroke (5.11%) compared to females (4.71%).
+
+
+![Снимок экрана 2024-11-22 200805](https://github.com/user-attachments/assets/48cd59e2-347a-4a87-9c39-9a42f84c8906)
+
+In the dataset, we have more of elderly people (1,304), followed by middle age people (1,188), next is adults (1,103), young adults (549), children (413), teens (378 and babies (175).
+
+
+![Снимок экрана 2024-11-22 201437](https://github.com/user-attachments/assets/20542ffd-6c85-4c7a-8ab4-b597b66ced80)
+FINDINGS:
+
+Elderly people are more likely to have stroke (13.57%), followed by middle age (4.97%), adult have a (1.00%) chance, babies have 0.57% and teens have 0.26%.
+
+Based on the dataset, I don't have any record of young adults and children affected by stroke.
+
+#### THIRD: Marital Status
