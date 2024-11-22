@@ -65,3 +65,19 @@ Columns: 12 Columns
 
 
 ![Снимок экрана 2024-11-22 192618](https://github.com/user-attachments/assets/7a4d1d75-f4b8-4dbf-9354-0c27ea9370b2)
+
+· Stroke, 1 means “Has Stroke”, and 0 means “No Stroke”
+
+## Cleaning and Transformation using Power Query
+
+i. Load the data into power query. Click a data point, go to data tab, click from Table range. This will open the dataset in power query.
+
+ii. Check the number of rows. Go to transform, click count rows. The number of rows will be 5,111. To remove the error, click on the page filter, and select remove errors. This will return the number to 5,110.
+
+iii. Remove unwanted columns. Remove the following: Hypertension, Work_Type, Residence_Type, Average_Glucose_Level, Smoking_Status.
+
+iv. Change data type of the ID to text.
+
+v. Gender. Female 2,994, Male 2,115, therefore replace other with female. Right click the column, select replace values, type Other and type Female.
+
+vi. Create the age range using: babies (0-2), children (3-12), teens (13-19), young adults (20-29), adult (30-45), mid age (46-60), elderly (61-120).
