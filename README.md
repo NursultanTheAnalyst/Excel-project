@@ -81,3 +81,13 @@ iv. Change data type of the ID to text.
 v. Gender. Female 2,994, Male 2,115, therefore replace other with female. Right click the column, select replace values, type Other and type Female.
 
 vi. Create the age range using: babies (0-2), children (3-12), teens (13-19), young adults (20-29), adult (30-45), mid age (46-60), elderly (61-120).
+
+![Снимок экрана 2024-11-22 193220](https://github.com/user-attachments/assets/7a796cc1-9da0-4b0b-a88f-49a252e44fa1)
+
+vii. Replace 1 with Heart Disease and 0 with None. Right click the column, select replace values and replace
+
+viii. Ever-married, replace No with Single, and Yes with Married.
+
+ix. BMI, change the data type to decimal number. This will set the N/A to errors. Then use replace errors to change the errors to 28.9.
+
+Then set the BMI range using conditional column
