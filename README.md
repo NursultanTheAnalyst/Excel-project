@@ -62,4 +62,6 @@ Columns: 12 Columns
 
 ![Снимок экрана 2024-11-22 192804](https://github.com/user-attachments/assets/6e2d6d5b-1489-44dd-a095-55d8588b236b)
 
+
+
 ![Снимок экрана 2024-11-22 192618](https://github.com/user-attachments/assets/7a4d1d75-f4b8-4dbf-9354-0c27ea9370b2)
