@@ -102,7 +102,18 @@ Now Create a Pivot Table. Click on a data point, go to insert, click pivot table
 
 #### FIRST:
 Stroke %.
+
 Row: Stroke
+
 Values: Count of ID
+![Снимок экрана 2024-11-22 195037](https://github.com/user-attachments/assets/f077c652-e170-4e1a-97fb-b4d40040b2cf)
+
+#### SECOND: 
+Based on gender
+
+Row: Gender
+
+Values: Count of ID
+
 
 
