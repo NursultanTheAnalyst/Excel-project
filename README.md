@@ -1,6 +1,6 @@
 # Stroke Prediction Dataset
 
-This is the link to download the dataset from Kaggle:
+This is the link to download the dataset that I used from Kaggle:
 
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
@@ -40,3 +40,12 @@ The dataset for the project has the following columns:
 ## Dictionary
 
 ![1696237563579](https://github.com/user-attachments/assets/04df853d-a83e-45ab-b723-2a312f117a2c)
+
+## EDA (Exploratory Data Analysis)
+
+EDA are set of steps used to explore and understand the dataset better, before cleaning and transformation.
+
+Rows: 5110
+Columns: 12 Columns
+
+![Снимок экрана 2024-11-22 190128](https://github.com/user-attachments/assets/8e087496-0b8c-47b0-ae31-3703983c797f)
