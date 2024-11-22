@@ -94,3 +94,15 @@ Then set the BMI range using =IF just like we did with Age
 
 ![Снимок экрана 2024-11-22 194439](https://github.com/user-attachments/assets/8f4874fa-f477-42b5-8277-33c3c0512212)
 
+x. In stroke column, change 1 to Stroke, and 0 to No Stroke.
+
+## Model, Analyze, Visualize
+
+Now Create a Pivot Table. Click on a data point, go to insert, click pivot table, click ok.
+
+### FIRST:
+Stroke %.
+Row: Stroke
+Values: Count of ID
+
+
