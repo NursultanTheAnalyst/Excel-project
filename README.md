@@ -125,7 +125,7 @@ Findings: In the dataset, we have more females, 58.6% (2,995), than males 41.4% 
 
 FINDINGS: From our analysis, when the dataset is equally distributed between females and males, I discovered that males are more likely to have stroke (5.11%) compared to females (4.71%).
 
-
+#### THIRD: Based on age
 ![Снимок экрана 2024-11-22 200805](https://github.com/user-attachments/assets/48cd59e2-347a-4a87-9c39-9a42f84c8906)
 
 In the dataset, we have more of elderly people (1,304), followed by middle age people (1,188), next is adults (1,103), young adults (549), children (413), teens (378 and babies (175).
@@ -138,4 +138,26 @@ Elderly people are more likely to have stroke (13.57%), followed by middle age (
 
 Based on the dataset, I don't have any record of young adults and children affected by stroke.
 
-#### THIRD: Marital Status
+#### FOURTH: Marital Status
+
+![Снимок экрана 2024-11-22 202110](https://github.com/user-attachments/assets/4609af61-e9c9-49ab-b480-6074bce0843d)
+
+FINDINGS:
+
+From this dataset, married people (6.6%) are more likely to have stroke than single people (1.7%)
+
+
+
+#### FIFTH: Based on BMI Range
+
+![Снимок экрана 2024-11-22 202500](https://github.com/user-attachments/assets/c299c53e-5ff6-4808-b779-ba293210a6de)
+
+From the dataset, we have obesity 1,920, followed by overweight 1,610, healthy weight, 1,231 and underweight 349.
+
+
+
+![Снимок экрана 2024-11-22 202820](https://github.com/user-attachments/assets/ebbedb80-579b-4fe1-91d6-e86539b8f746)
+
+FINDINGS:
+
+Over weight people are most likely to have stroke (7.14%), followed by Obesity (5.10%), Healthy Weight (2.84%), and people that are under weight will most likely not have stroke (0.29%).
